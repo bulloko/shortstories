@@ -1,5 +1,5 @@
 
-On the edge of Baba Yaga’s forest, there is a little village, and everyone who lives there knows about the strange hut and the lady who lives inside it. They know her, and they fear her, for it has long been rumoured that she likes to eat children.
+**On the edge of Baba Yaga’s forest, there is a little village, and everyone who lives there knows about the strange hut and the lady who lives inside it. They know her, and they fear her, for it has long been rumoured that she likes to eat children.**
 
 A long time ago, a man lived in this village with his beautiful daughter, who was called Vasilisa. The girl’s mother had sadly died some years before the start of this story. Before she died, she gave Vasilisa a wonderful gift – It was a little rag doll that did not look so different from any other. The girl’s mother told Vasilisa that she should take special care of the doll. Every night she must feed it a little milk and a little biscuit, and so long as she did so, the doll would always be ready to help her – no matter how much trouble she found herself in. Vasilisa did just as her mother bid her. Every night the little rag doll sat up and drank a little milk, and ate a little biscuit before smiling at Vasilisa and then going back to sleep.
 
@@ -89,7 +89,7 @@ Baba Yaga froze for a moment, and the fierce glare of her eyes lessened somewhat
 
 Vasilisa nodded, for she now understood that the three horsemen were morning day and night.
 
-“Then you are a good girl,” said Baba Yaga. “For if Morning, Day and Night choose to help you, that means that your spirit is in harmony with the universe. I will do you no harm. Wait here while I go on my business. I have no tasks for you today. Tonight you shall return home with a light.”
+>“Then you are a good girl,” said Baba Yaga. “For if Morning, Day and Night choose to help you, that means that your spirit is in harmony with the universe. I will do you no harm. Wait here while I go on my business. I have no tasks for you today. Tonight you shall return home with a light.”
 
 That evening, after Baba Yaga flew home on her mortar, she took Vasilisa out into the courtyard and gave her one of the skulls with blazing eyes.
 
@@ -99,6 +99,6 @@ Vasilisa took the skull and returned back down the path to her village. She expe
 
 She stepped into the house. The skull lit up the inside as bright as day.
 
-“I’m home,” called out Vasilisa. But she received no reply, for as soon as the light fell on her stepmother and sisters, they turned to dust.
+>“I’m home,” called out Vasilisa. But she received no reply, for as soon as the light fell on her stepmother and sisters, they turned to dust.
 
 Vasilisa went to live with a kindly old lady in the village until her father returned from his business. When he came back, he thought that his wife and stepdaughters must have run away. He did not miss them much. He lived happily with his beautiful daughter, Vasilisa, until one day a prince came riding by and caught sight of her. She was the most beautiful girl he had ever seen, and he had no hesitation in asking her to marry him, which she did, and they lived happily ever after.
