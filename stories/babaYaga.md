@@ -102,3 +102,5 @@ She stepped into the house. The skull lit up the inside as bright as day.
 “I’m home,” called out Vasilisa. But she received no reply, for as soon as the light fell on her stepmother and sisters, they turned to dust.
 
 Vasilisa went to live with a kindly old lady in the village until her father returned from his business. When he came back, he thought that his wife and stepdaughters must have run away. He did not miss them much. He lived happily with his beautiful daughter, Vasilisa, until one day a prince came riding by and caught sight of her. She was the most beautiful girl he had ever seen, and he had no hesitation in asking her to marry him, which she did, and they lived happily ever after.
+
+THE END
