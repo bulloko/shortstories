@@ -22,4 +22,6 @@ The woman giggled aloud.  She then looked down at the turtle in her lap, scrubbe
 
 And then the scum on the turtle transformed it into an amazing ninja. He donned a mask and slunk into the sewers, fighting crime with a giant rat and 3 other mutant turtles.
 
+And everybody lived happily ever after.
+
 The end.
