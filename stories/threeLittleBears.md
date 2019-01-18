@@ -1,6 +1,8 @@
-Once upon a time, there was a little girl named Goldilocks.  She  went for a walk in the forest.  Pretty soon, she came upon a house.  She knocked and, when no one answered, she walked right in.
+The Three Little Bears
 
-At the table in the kitchen, there were three bowls of porridge.  Goldilocks was hungry.  She tasted the porridge from the first bowl.
+Once upon a time, there was a little girl named Goldfish.  She  went for a walk in the forest.  Pretty soon, she came upon a house.  She knocked and, when no one answered, she walked right in.
+
+At the table in the kitchen, there were three bowls of porridge.  Goldfish was hungry.  She tasted the porridge from the first bowl.
 
 "This porridge is too hot!" she exclaimed.
 
@@ -12,7 +14,7 @@ So, she tasted the last bowl of porridge.
 
 "Ahhh, this porridge is just right," she said happily and she ate it all up.
 
-After she'd eaten the three bears' breakfasts she decided she was feeling a little tired.  So, she walked into the living room where she saw three chairs.  Goldilocks sat in the first chair to rest her feet.  
+After she'd eaten the three bears' breakfasts she decided she was feeling a little tired.  So, she walked into the living room where she saw three chairs.  Goldfish sat in the first chair to rest her feet.  
 
 "This chair is too big!" she exclaimed.
 
@@ -24,7 +26,7 @@ So she tried the last and smallest chair.
 
 "Ahhh, this chair is just right," she sighed.  But just as she settled down into the chair to rest, it broke into pieces!
 
-Goldilocks was very tired by this time, so she went upstairs to the bedroom.  She lay down in the first bed, but it was too hard.  Then she lay in the second bed, but it was too soft.  Then she lay down in the third bed and it was just right.  Goldilocks fell asleep.
+Goldfish was very tired by this time, so she went upstairs to the bedroom.  She lay down in the first bed, but it was too hard.  Then she lay in the second bed, but it was too soft.  Then she lay down in the third bed and it was just right.  Goldfish fell asleep.
 
 As she was sleeping, the three bears came home.
 
@@ -46,4 +48,6 @@ They decided to look around some more and when they got upstairs to the bedroom,
 
 "Someone's been sleeping in my bed and she's still there!" exclaimed Baby bear.
 
-Just then, Goldilocks woke up and saw the three bears.  She screamed, "Help!"  And she jumped up and ran out of the room.  Goldilocks ran down the stairs, opened the door, and ran away into the forest.  And she never returned to the home of the three bears.
+Just then, Goldfish woke up and saw the three bears.  She screamed, "Help!"  And she jumped up and ran out of the room.  Goldfish ran down the stairs, opened the door, and ran away into the forest.  And she never returned to the home of the three bears.
+
+Instead, goldfish went to that house from Dr Seuss's The Cat In The Hat, and warned the children about the dangers outside.

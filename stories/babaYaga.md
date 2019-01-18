@@ -1,3 +1,4 @@
+Baba Yaga
 
 On the edge of Baba Yaga’s forest, there is a little village, and everyone who lives there knows about the strange hut and the lady who lives inside it. They know her, and they fear her, for it has long been rumoured that she likes to eat children.
 
@@ -7,7 +8,7 @@ As time went by, the girl’s father decided to marry again. His second wife had
 
 When Vasilisa had recently passed her sixteenth birthday, her father said that he had to go away on a journey that would last at least a month. Vasilisa begged him to take her with him, but he just laughed and said he was travelling on business, and the girl would find the journey tiresome and dull.
 
-The first night after the father had left, the stepmother gathered the three girls together in the parlour and spoke as such: “Now my dears, I have a little task for each of you. “Tanya,” that was the oldest, “go in my room, please my dear, and sew a button on my red dress. Katya,” the youngest, “go to the kitchen table and roll some pastry so that it’s nice and flat. And Vasilisa dear, go to Baba Yaga’s hut in the forest and ask her to lend us some lights. Now run along sweetheart. Don’t waste any time. We don’t want you to get caught in the dark now do we.”
+The first night after the father had left, the stepmother gathered the three girls together in the parlour and spoke as such: > “Now my dears, I have a little task for each of you. “Tanya,” that was the oldest, “go in my room, please my dear, and sew a button on my red dress. Katya,” the youngest, “go to the kitchen table and roll some pastry so that it’s nice and flat. And Vasilisa dear, go to Baba Yaga’s hut in the forest and ask her to lend us some lights. Now run along sweetheart. Don’t waste any time. We don’t want you to get caught in the dark now do we.”
 
 The stepmother shooed Vasilisa out of the house so fast that she hardly had time to put on her hat and gloves. She walked forlornly to the corner of the street and took the little doll out of her coat pocket where it had been sleeping.
 
@@ -64,7 +65,7 @@ Vasilisa gazed at the witch until she was out of site, and then she started to c
 She heard a noise outside the hut. “Oh, Baba Yaga must be back early. Now I’m done for!” She exclaimed – but when she looked out of the window she saw not Baba Yaga, but the white horseman who had over-taken her on her way to the hut. He galloped around the fence of the compound and then was off again into the woods. Vasilisa sighed and wished that he would only come and rescue her, whoever he might be. Then when she turned around from the window she saw that all the peas had been sorted into two piles – one black and one white. Her task was done.
 
 That evening, after Baba Yaga flew back home from whatever business she had been on, the old witch could not hide her surprise at all that her guest had managed to achieve the task in one day.
-
+---
 “I see that you are good little worker my dear,” she said. “Well in that case, tomorrow you can make pea soup and fetch water from the stream to fill up the tank. Here, use this bucket.” What she handed to Vasilisa was not a bucket, but a sieve, and the poor girl wondered how she would ever manage to use it to fetch water. Still that night, when the little rag doll urged her not to feel despair, she knew in her heart that something wonderful might happen to help her – and it did. For as she stood by the stream holding the sieve in her hand, the red horseman rode by, took it from her and swept over to the hut where he hurled it through the open window. When Vasilisa returned she found that the tank was filled with fresh water.
 
 That evening Baba Yaga dipped her bony finger in the tank and tasted a drop of the fresh water. She said, “Indeed you are a hard working girl. Let’s see if you are clever too. Tonight you can stay up and count the number of stars in the sky. If you tell me the right number in the morning, you can take your light and go free, but if your answer is wrong, even if you tell me one star too many or too few, then I shall have you for my breakfast.”
@@ -89,7 +90,7 @@ Baba Yaga froze for a moment, and the fierce glare of her eyes lessened somewhat
 
 Vasilisa nodded, for she now understood that the three horsemen were morning day and night.
 
-“Then you are a good girl,” said Baba Yaga. “For if Morning, Day and Night choose to help you, that means that your spirit is in harmony with the universe. I will do you no harm. Wait here while I go on my business. I have no tasks for you today. Tonight you shall return home with a light.”
+>“Then you are a good girl,” said Baba Yaga. “For if Morning, Day and Night choose to help you, that means that your spirit is in harmony with the universe. I will do you no harm. Wait here while I go on my business. I have no tasks for you today. Tonight you shall return home with a light.”
 
 That evening, after Baba Yaga flew home on her mortar, she took Vasilisa out into the courtyard and gave her one of the skulls with blazing eyes.
 
@@ -99,7 +100,7 @@ Vasilisa took the skull and returned back down the path to her village. She expe
 
 She stepped into the house. The skull lit up the inside as bright as day.
 
-“I’m home,” called out Vasilisa. But she received no reply, for as soon as the light fell on her stepmother and sisters, they turned to dust.
+>“I’m home,” called out Vasilisa. But she received no reply, for as soon as the light fell on her stepmother and sisters, they turned to dust.
 
 Vasilisa went to live with a kindly old lady in the village until her father returned from his business. When he came back, he thought that his wife and stepdaughters must have run away. He did not miss them much. He lived happily with his beautiful daughter, Vasilisa, until one day a prince came riding by and caught sight of her. She was the most beautiful girl he had ever seen, and he had no hesitation in asking her to marry him, which she did, and they lived happily ever after.
 
