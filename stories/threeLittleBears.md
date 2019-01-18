@@ -1,4 +1,4 @@
-# The Three Little Bears
+The Three Little Bears
 
 Once upon a time, there was a little girl named Goldfish.  She  went for a walk in the forest.  Pretty soon, she came upon a house.  She knocked and, when no one answered, she walked right in.
 

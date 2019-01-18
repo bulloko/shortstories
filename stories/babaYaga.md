@@ -1,12 +1,12 @@
-# Baba Yaga
+Baba Yaga
 
-**On the edge of Baba Yaga’s forest, there is a little village, and everyone who lives there knows about the strange hut and the lady who lives inside it. They know her, and they fear her, for it has long been rumoured that she likes to eat children.**
+On the edge of Baba Yaga’s forest, there is a little village, and everyone who lives there knows about the strange hut and the lady who lives inside it. They know her, and they fear her, for it has long been rumoured that she likes to eat children.
 
 A long time ago, a man lived in this village with his beautiful daughter, who was called Vasilisa. The girl’s mother had sadly died some years before the start of this story. Before she died, she gave Vasilisa a wonderful gift – It was a little rag doll that did not look so different from any other. The girl’s mother told Vasilisa that she should take special care of the doll. Every night she must feed it a little milk and a little biscuit, and so long as she did so, the doll would always be ready to help her – no matter how much trouble she found herself in. Vasilisa did just as her mother bid her. Every night the little rag doll sat up and drank a little milk, and ate a little biscuit before smiling at Vasilisa and then going back to sleep.
 
 As time went by, the girl’s father decided to marry again. His second wife had two daughters of her own, neither of whom could touch Vasilisa for beauty or sweetness of character. In fact, they were jealous of Vasilisa and they hated her terribly. So long as Vasilisa’s father remained at home, the stepmother and stepsisters had to pretend that they liked her, but every now and then one of the sisters would whisper in Vasilisa’s ear, “Just you wait until your dear papa leaves us alone with you. Then you’ll see!”
 
-When Vasilisa had recently passed her **sixteenth birthday**, her father said that he had to go away on a journey that would last at least a month. Vasilisa begged him to take her with him, but he just laughed and said he was travelling on business, and the girl would find the journey tiresome and dull.
+When Vasilisa had recently passed her sixteenth birthday, her father said that he had to go away on a journey that would last at least a month. Vasilisa begged him to take her with him, but he just laughed and said he was travelling on business, and the girl would find the journey tiresome and dull.
 
 The first night after the father had left, the stepmother gathered the three girls together in the parlour and spoke as such: > “Now my dears, I have a little task for each of you. “Tanya,” that was the oldest, “go in my room, please my dear, and sew a button on my red dress. Katya,” the youngest, “go to the kitchen table and roll some pastry so that it’s nice and flat. And Vasilisa dear, go to Baba Yaga’s hut in the forest and ask her to lend us some lights. Now run along sweetheart. Don’t waste any time. We don’t want you to get caught in the dark now do we.”
 
@@ -103,3 +103,5 @@ She stepped into the house. The skull lit up the inside as bright as day.
 >“I’m home,” called out Vasilisa. But she received no reply, for as soon as the light fell on her stepmother and sisters, they turned to dust.
 
 Vasilisa went to live with a kindly old lady in the village until her father returned from his business. When he came back, he thought that his wife and stepdaughters must have run away. He did not miss them much. He lived happily with his beautiful daughter, Vasilisa, until one day a prince came riding by and caught sight of her. She was the most beautiful girl he had ever seen, and he had no hesitation in asking her to marry him, which she did, and they lived happily ever after.
+
+THE END
