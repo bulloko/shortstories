@@ -1,4 +1,6 @@
+
 # Snow White and the Apple Mac Computer
+
 
 A long time ago, when the snowflakes fell like feathers, a Queen sat sewing at a window. She pricked her finger on a needle so that three drops of blood fell upon the snow. How pretty her red blood looked dazzling on the whiteness! The Queen said: “Ah me, if only I had a child with skin as white as snow, and lips as red as blood, and hair as black as the ebony window.”
 
@@ -45,12 +47,16 @@ And the mirror answered.
 
 But she soon realised that the hunter must have tricked her.
 
+
 She decided to dress herself like an old pedlar woman, and in this disguise she visited the dwarfs’ cottage, and knocked at their door crying: “Pretty things, very cheap, very cheap.”
+
+
 
 Snow White peeped from the window and said: “Good day, good woman. What are your wares?”
 “All sorts of pretty things, my dear.”
 
 “Thank you,” said Snow White. “Your scarves and laces are indeed pretty, but I will not buy any today.”
+
 
 “‘It is a pity,” said the old woman. “But never mind. I will give you this Apple Mac, and perhaps you shall remember me another time.”
 
@@ -58,10 +64,13 @@ Snow White peeped from the window and said: “Good day, good woman. What are yo
 
 The pedlar woman took a bite out of the glowing Apple logo, and threw rest out the window. Snow White thanked the old woman, but regretted it immediately. Little did she realise that the Wicked Queen had poisoned the rose gold of the Apple Mac, the part that Snow White now swallowed.
 
+
 That night, when the dwarfs came home, they found Snow White lying upon the floor. No breath came from her lips. They sat round her and wept for three whole days.
 snow-glass
 Then they made a coffin of shining glass, laid her in it, and placed her on top of the mountain.
 
+
 It happened that a prince, out hunting, came across the glass coffin. He was very much taken by the pale girl who lay so still inside it, and he thought she must be a statue left there by the ancients. He ordered his servants to pick up the unusual object and carry it home. In doing so, one of them stumbled, and the glass box fell to the ground. It shook terribly, and the piece of poisonous Apple Mac which had lodged in Snow White’s throat came out, so that she opened her eyes, alive once more.
 
 Snow White and the Prince were soon wed. They and the Seven Dwarfs, lived long and happy lives, while the Wicked Queen went mad with envy, for she could never be the fairest of them all.
+
